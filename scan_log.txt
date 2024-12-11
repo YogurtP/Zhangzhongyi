@@ -1,0 +1,48 @@
+2024-11-13 19:35:21.752981 - MALWARE DETECTED: D:/EICAR\virus.txt (MD5: d41d8cd98f00b204e9800998ecf8427e)
+2024-11-13 19:38:14.097124 - MALWARE DETECTED: D:/EICAR\virus.txt (MD5: e99a18c428cb38d5f260853678922e03)
+2024-11-13 19:39:06.535003 - MALWARE DETECTED: D:/EICAR\virus.txt (MD5: e99a18c428cb38d5f260853678922e03)
+2024-11-13 19:44:35.253390 - MALWARE DETECTED: D:/EICAR\virus.txt (MD5: e99a18c428cb38d5f260853678922e03)
+2024-11-13 19:49:08.268928 - MALWARE DETECTED: D:/EICAR\virus.txt (MD5: e99a18c428cb38d5f260853678922e03)
+2024-11-13 19:50:55.065685 - MALWARE DETECTED: D:/EICAR\virus.txt (MD5: e99a18c428cb38d5f260853678922e03)
+2024-11-13 19:58:58.207739 - MALWARE DETECTED: D:/EICAR\virus.txt (MD5: e99a18c428cb38d5f260853678922e03)
+2024-11-20 17:01:39,249:INFO:Scanned file: D:/EICAR\1.txt | Time: 2024-11-20 17:01:39 | Status: Clean
+2024-11-20 17:01:39,250:INFO:Scanned file: D:/EICAR\10.txt | Time: 2024-11-20 17:01:39 | Status: Clean
+2024-11-20 17:01:39,250:INFO:Scanned file: D:/EICAR\11.txt | Time: 2024-11-20 17:01:39 | Status: Clean
+2024-11-20 17:01:39,250:INFO:Scanned file: D:/EICAR\13.txt | Time: 2024-11-20 17:01:39 | Status: Malware detected
+2024-11-20 17:01:39,250:INFO:Scanned file: D:/EICAR\2.txt | Time: 2024-11-20 17:01:39 | Status: Clean
+2024-11-20 17:01:39,250:INFO:Scanned file: D:/EICAR\3.txt | Time: 2024-11-20 17:01:39 | Status: Clean
+2024-11-20 17:01:39,250:INFO:Scanned file: D:/EICAR\4.txt | Time: 2024-11-20 17:01:39 | Status: Clean
+2024-11-20 17:01:39,251:INFO:Scanned file: D:/EICAR\5.txt | Time: 2024-11-20 17:01:39 | Status: Clean
+2024-11-20 17:01:39,251:INFO:Scanned file: D:/EICAR\6.txt | Time: 2024-11-20 17:01:39 | Status: Clean
+2024-11-20 17:01:39,251:INFO:Scanned file: D:/EICAR\7.txt | Time: 2024-11-20 17:01:39 | Status: Clean
+2024-11-20 17:01:39,251:INFO:Scanned file: D:/EICAR\8.txt | Time: 2024-11-20 17:01:39 | Status: Clean
+2024-11-20 17:01:39,251:INFO:Scanned file: D:/EICAR\9.txt | Time: 2024-11-20 17:01:39 | Status: Clean
+2024-11-20 17:01:39,251:INFO:Scanned file: D:/EICAR\virus.txt | Time: 2024-11-20 17:01:39 | Status: Malware detected
+2024-11-20 17:02:38,198:INFO:Scanned file: D:/EICAR\13.txt | Time: 2024-11-20 17:02:38 | Status: Deleted
+2024-11-20 18:12:35,422:INFO:Scanned file: D:/EICAR\1.txt | Time: 2024-11-20 18:12:35 | Status: Clean
+2024-11-20 18:12:35,423:INFO:Scanned file: D:/EICAR\10.txt | Time: 2024-11-20 18:12:35 | Status: Clean
+2024-11-20 18:12:35,423:INFO:Scanned file: D:/EICAR\11.txt | Time: 2024-11-20 18:12:35 | Status: Clean
+2024-11-20 18:12:35,424:INFO:Scanned file: D:/EICAR\13.txt | Time: 2024-11-20 18:12:35 | Status: Malware detected
+2024-11-20 18:12:35,424:INFO:Scanned file: D:/EICAR\2.txt | Time: 2024-11-20 18:12:35 | Status: Clean
+2024-11-20 18:12:35,424:INFO:Scanned file: D:/EICAR\3.txt | Time: 2024-11-20 18:12:35 | Status: Clean
+2024-11-20 18:12:35,425:INFO:Scanned file: D:/EICAR\4.txt | Time: 2024-11-20 18:12:35 | Status: Clean
+2024-11-20 18:12:35,425:INFO:Scanned file: D:/EICAR\5.txt | Time: 2024-11-20 18:12:35 | Status: Clean
+2024-11-20 18:12:35,425:INFO:Scanned file: D:/EICAR\6.txt | Time: 2024-11-20 18:12:35 | Status: Clean
+2024-11-20 18:12:35,426:INFO:Scanned file: D:/EICAR\7.txt | Time: 2024-11-20 18:12:35 | Status: Clean
+2024-11-20 18:12:35,426:INFO:Scanned file: D:/EICAR\8.txt | Time: 2024-11-20 18:12:35 | Status: Clean
+2024-11-20 18:12:35,426:INFO:Scanned file: D:/EICAR\9.txt | Time: 2024-11-20 18:12:35 | Status: Clean
+2024-11-20 18:12:35,427:INFO:Scanned file: D:/EICAR\virus.txt | Time: 2024-11-20 18:12:35 | Status: Malware detected
+2024-11-20 18:30:14,766:INFO:Scanned file: D:/EICAR\1.txt | Time: 2024-11-20 18:30:14 | Status: Clean
+2024-11-20 18:30:14,766:INFO:Scanned file: D:/EICAR\10.txt | Time: 2024-11-20 18:30:14 | Status: Clean
+2024-11-20 18:30:14,767:INFO:Scanned file: D:/EICAR\11.txt | Time: 2024-11-20 18:30:14 | Status: Clean
+2024-11-20 18:30:14,767:INFO:Scanned file: D:/EICAR\13.txt | Time: 2024-11-20 18:30:14 | Status: Malware detected
+2024-11-20 18:30:14,767:INFO:Scanned file: D:/EICAR\2.txt | Time: 2024-11-20 18:30:14 | Status: Clean
+2024-11-20 18:30:14,768:INFO:Scanned file: D:/EICAR\3.txt | Time: 2024-11-20 18:30:14 | Status: Clean
+2024-11-20 18:30:14,768:INFO:Scanned file: D:/EICAR\4.txt | Time: 2024-11-20 18:30:14 | Status: Clean
+2024-11-20 18:30:14,768:INFO:Scanned file: D:/EICAR\5.txt | Time: 2024-11-20 18:30:14 | Status: Clean
+2024-11-20 18:30:14,769:INFO:Scanned file: D:/EICAR\6.txt | Time: 2024-11-20 18:30:14 | Status: Clean
+2024-11-20 18:30:14,769:INFO:Scanned file: D:/EICAR\7.txt | Time: 2024-11-20 18:30:14 | Status: Clean
+2024-11-20 18:30:14,769:INFO:Scanned file: D:/EICAR\8.txt | Time: 2024-11-20 18:30:14 | Status: Clean
+2024-11-20 18:30:14,770:INFO:Scanned file: D:/EICAR\9.txt | Time: 2024-11-20 18:30:14 | Status: Clean
+2024-11-20 18:30:14,770:INFO:Scanned file: D:/EICAR\virus.txt | Time: 2024-11-20 18:30:14 | Status: Malware detected
+2024-11-20 18:30:45,133:INFO:Scanned file: D:/EICAR\13.txt | Time: 2024-11-20 18:30:45 | Status: Deleted
